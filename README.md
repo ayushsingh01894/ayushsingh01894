@@ -59,42 +59,6 @@ HTML | CSS | JavaScript
 
 ---
 
-# Attendify – Smart QR Attendance Management System
-
-A web-based attendance management system that uses QR codes to automate and secure student attendance tracking.
-
----
-
-## 🚀 Features
-
-✔ Real-time QR Code generation for attendance  
-✔ Secure student attendance tracking  
-✔ Duplicate attendance prevention  
-✔ Session-based attendance management  
-✔ CSV export for attendance records  
-✔ Simple and responsive web interface  
-
----
-
-## 🛠 Tech Stack
-
-Backend  
-Python  
-Flask  
-
-Database  
-MongoDB  
-
-Frontend  
-HTML  
-CSS  
-
----
-
-## 📂 Project Structure
-
-Attendify-QR-Attendance-System
-
 ## 📊 GitHub Stats
 
 ![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayushsingh01894&show_icons=true&theme=tokyonight)
