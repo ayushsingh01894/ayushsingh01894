@@ -64,6 +64,11 @@ HTML | CSS | JavaScript
 ![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayushsingh01894&show_icons=true&theme=tokyonight)
 
 ---
+## 💻 Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushsingh01894&layout=compact&theme=tokyonight)
+
+---
 
 ## 🔥 GitHub Streak
 
