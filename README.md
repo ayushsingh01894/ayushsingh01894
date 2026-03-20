@@ -63,17 +63,6 @@ HTML | CSS | JavaScript
 
 ![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayushsingh01894&show_icons=true&theme=tokyonight)
 
----
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=ayushsingh01894&theme=tokyonight)
-
----
-
-## 📈 Contribution Graph
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ayushsingh01894&theme=tokyo-night)
 
 ---
 
