@@ -1,6 +1,6 @@
 <img width="1584" height="396" alt="Black   White Modern Minimalist Data Analyst LinkedIn Banner (1)" src="https://github.com/user-attachments/assets/3c92975e-868b-4260-947b-c761e47edf81" />
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=MCA+Student;Aspiring+Software+Engineer;Machine+Learning+Enthusiast;Data+Analytics+Learner&center=true&width=500&height=45&color=lightblue">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=MCA+Student;Aspiring+Software+Engineer;Machine+Learning+Enthusiast;Data+Analytics+Learner&center=true&width=500&height=45&color=softvoilet">
 </p>
 <h1 align="center">Hi 👋, I'm Ayush Singh</h1>
 <h3 align="center">MCA Student | Aspiring Software Engineer | ML & Data Analytics Enthusiast</h3>
