@@ -14,7 +14,7 @@
 ## 👨‍💻 About Me
 
 🎓 MCA Student at **Invertis University**  
-💡 Interested in **Machine Learning, Data Analytics & Web Development**  
+💡 Interested in **Gen Ai ,Machine Learning, Data Analytics & Web Development**  
 📊 Skilled in **Python, SQL, Power BI and Data Analysis**  
 🚀 Passionate about building real-world tech solutions  
 
