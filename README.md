@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=MCA+Student;Aspiring+Software+Engineer;Machine+Learning+Enthusiast;Data+Analytics+Learner&center=true&width=500&height=45&color=softvoilet">
 </p>
 <h1 align="center">Hi 👋, I'm Ayush Singh</h1>
-<h3 align="center">MCA Student | Aspiring Software Engineer | ML & Data Analytics Enthusiast</h3>
+<h3 align="center">MCA Student | Aspiring AI Engineer | Gen Ai and Agentic AI , ML & Data Analytics Enthusiast</h3>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=ayushsingh01894&label=Profile%20Views&color=0e75b6&style=flat" alt="visitor counter"/>
